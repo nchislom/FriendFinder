@@ -1,9 +1,39 @@
 var friends = [
     {
-        "name":"Ahmed",
-        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
-        "scores":[5,1,4,4,5,1,2,5,4,1]
+        "name":"Isaac",
+        "photo":"https://i.pravatar.cc/200?img=59",
+        "scores":[5,1,4,4,5,1,2,5,4,1,4,3]
+    },
+    {
+        "name":"Mary",
+        "photo":"https://i.pravatar.cc/200?img=5",
+        "scores":[1,3,4,2,3,2,3,4,5,2,3,1]
+    },
+    {
+        "name":"Clive",
+        "photo":"https://i.pravatar.cc/200?img=17",
+        "scores":[5,5,5,5,5,5,5,5,5,5,5,5]
+    },
+    {
+        "name":"Jeff",
+        "photo":"https://i.pravatar.cc/200?img=11",
+        "scores":[3,3,3,2,3,3,4,3,3,4,5,1]
+    },
+    {
+        "name":"Sam",
+        "photo":"https://i.pravatar.cc/200?img=42",
+        "scores":[1,1,3,4,2,2,5,3,4,4,1,3]
+    },
+    {
+        "name":"Natalia",
+        "photo":"https://i.pravatar.cc/200?img=10",
+        "scores":[3,4,5,2,3,4,1,4,2,4,2,4]
+    },
+    {
+        "name":"Nora",
+        "photo":"https://i.pravatar.cc/200?img=16",
+        "scores":[3,4,5,2,3,4,1,4,2,4,2,4]
     }
 ];
 
-module.exports.friends = friends;
+module.exports = friends;
